@@ -9,3 +9,6 @@ Todavía no trabajo pero me gustaría empezar el año que viene. Ojalá la mater
 
 ## Gustos:
 Me encanta el fútbol, soy hincha de Racing, y también me gustan los videojuegos en general. 
+
+## Foto:
+<img src="Foto.jpeg" width="200px" height="280px">

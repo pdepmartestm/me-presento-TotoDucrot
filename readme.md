@@ -1,1 +1,4 @@
-Mi nombre es Tobías Ducrot, tengo 18 años y vivo en CABA. Mi número de legajo es 176228-0. Este es mi segundo año en la facultad, empecé en 2020 con la virtualidad así que ya estoy acostumbrado. Todavía no trabajo pero me gustaría empezar el año que viene. Ojalá la materia me abra nuevas puertas en ese ámbito. Me encanta el fútbol y los videojuegos en general. 
+Mi nombre es Tobías Ducrot, tengo 18 años y vivo en CABA. Mi número de legajo es 176228-0. 
+Este es mi segundo año en la facultad, empecé en 2020 con la virtualidad así que ya estoy acostumbrado. 
+Todavía no trabajo pero me gustaría empezar el año que viene. Ojalá la materia me abra nuevas puertas en ese ámbito. 
+Me encanta el fútbol, soy hincha de Racing, y también me gustan los videojuegos en general. 
